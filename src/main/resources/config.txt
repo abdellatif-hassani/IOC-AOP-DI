@@ -1,0 +1,2 @@
+net.hassani.dao.DaoImplV2
+net.hassani.metier.MetierImpl
